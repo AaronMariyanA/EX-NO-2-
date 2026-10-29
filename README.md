@@ -1,6 +1,6 @@
 ## EX. NO:2 IMPLEMENTATION OF PLAYFAIR CIPHER
-## NAME: Gowtham S
-## REG.NO: 212224100018
+## NAME: Aaron Mariyan A
+## REG.NO: 212224040004
  
 
 ## AIM:
@@ -176,7 +176,8 @@ int main() {
 
 
 ## Output:
-<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/4a3bfc4b-c690-44a1-87e2-ffa227db4b99" />
+<img width="369" height="327" alt="Screenshot 2026-10-29 at 2 28 24 PM" src="https://github.com/user-attachments/assets/b96bf390-8ab4-4b5d-b512-68f60c0e7def" />
+
 
 
 
